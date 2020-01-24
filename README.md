@@ -1,1 +1,1 @@
-## Welcome to Cassiopeia
+## Rationale
